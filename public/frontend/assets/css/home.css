@@ -1,0 +1,124 @@
+.banner_sidebar .left-sidebar {
+    border: 1px solid #E6006B;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    background-color: #E6006B;
+}
+.banner_sidebar .sidebar-btn{
+    border: 2px solid #fff;
+    font-weight: 500;
+    color: #fff !important;
+    text-decoration: none;
+    padding: 10px 50px;
+    border-radius: 5px;
+    width: 80%;
+}
+.feature-cat .category{
+    /*padding: 5px;*/
+}
+/*.feature-cat .category img{*/
+/*    height: 80%;*/
+/*    width: 90%;*/
+/*    border-radius: 50%;*/
+/*}*/
+.feature-cat .category p{
+    max-height: 37px;
+    overflow: hidden;
+}
+.service-support-box .service-support-single img{
+    width: 60px;
+    margin-right: 20px;
+}
+
+
+/* brand start  */
+.title-curve-box{
+    border-bottom: 2px solid rgb(0, 0, 73);
+}
+.title-curve{
+    clip-path: polygon(0 0, 81% 0, 100% 100%, 0% 100%);
+    background: #00712D !important;
+    text-align: center;
+    width: 250px;
+    padding: 10px;
+}
+.title-curve-box .title-curve .title{
+    margin: 0;
+}
+.brand-slider .single_brand{
+    height: 115px;
+    padding: 10px;
+    width: 200px;
+    display: grid;
+    place-content: center;
+    background: var(--white);
+}
+.brand-slider .single_brand img{
+    height: 100px;
+    max-width: 100%;
+    padding: 10px;
+}
+.free-content p{
+    font-family: var(--medium);
+}
+.free-content h3, .free-content h5{
+    font-family: var(--semi);
+}
+
+.owl-dot .active {
+    visibility: hidden;
+}
+.owl-dot {
+    visibility: hidden;
+}
+
+/*.category {*/
+    background: #E6006B;
+}
+
+.category:hover {
+    /*background: #E6006B;*/
+}
+
+.category:hover p {
+    color: #fff;
+}
+
+.category p {
+    /*color: #fff;*/
+}
+
+ .owl-nav{
+    position: absolute;
+    top: 50%;
+    width: 100%;
+}
+.owl-nav button{
+    position: absolute;
+    top: -40px;
+    width: 40px;
+    height: 40px;
+    border: none;
+    font-size: 25px;
+    font-weight: bold;
+}
+.owl-nav button.owl-prev{
+    left: 10px;
+}
+.owl-nav button.owl-next{
+    right: 20px;
+}
+
+
+/* Start Here */
+
+
+
+
+
+
+
+
+
+
